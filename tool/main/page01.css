@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px; 
+    background-color: #d3dbde; 
+ 
+}
+.main{
+
+    position: relative;
+    width: 25%
+}
+.image{
+    width: 100%;
+    overflow: hidden;
+    height: auto;
+}
+#footer {
+    width: 100%;
+    background-color: black;
+    height: 100%;
+    overflow: hidden;
+    color: #fff;
+  }
+.overlay{
+    position: absolute;
+    bottom: 0;
+    right: 2;
+    left: 2;
+    background-color: rgba(0, 0, 0, 75);
+    overflow: hidden;
+    width: 91%;
+    height: 0;
+    transition: .5s ease;
+    opacity: 0.5;
+
+}
+.main:hover .overlay{
+    height: 100%;
+}
+.overlay h4{
+    width: 100%;
+    margin-top: 30%;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    text-align: center;
+    font-family: Calibri Light;
+    letter-spacing: 5px;
+}
+
+.overlay h6{
+    text-align: center;
+    font-family: 'Courier New';
+    color: white;
+    font-size: 10px;
+    margin: 60% 0 0 18%;
+    width: 70%;
+    letter-spacing: 5px;
+    line-height: 1.5em;
+}
+
+
+.butt:hover{background-color: gold;}
+.butt{
+
+        text-align: center;
+        font-family: Calibri Light;
+        background-color:transparent;
+        color: white;
+        font-size: 18px;
+        margin: 60% 0 0 18%;
+        width: 70%;
+        letter-spacing: 2px;
+        line-height: 1.5em;
+        border-radius: 50px;
+        font-size: 20px;
+        border-color: white;
+
+    
+    
+}

@@ -1,0 +1,42 @@
+.text-blob {
+    font-size: 7vw;
+    font-family: Copperplate Gothic Light;
+    color: black;
+
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    position: absolute;
+    letter-spacing: 8px;
+    top: 45%;
+    width: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    animation-name: blob;
+    animation-iteration-count: 1;
+    animation-duration: 35s;
+}
+.hero img {
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom-center;
+    height: 115vh;
+    color: #fff;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin-bottom: 20px;
+    z-index: -9;
+    margin-top: -100px;
+    top: 0;
+  }  
+  #footer {
+    width: 100%;
+    background-color: black;
+    height: 100%;
+    overflow: hidden;
+    color: #fff;
+  }
