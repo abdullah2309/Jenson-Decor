@@ -1,6 +1,8 @@
 /* Update 8-ang-2026  */
 /* ------------------------------ */
-.testing{}
+.testing{
+  color:#fffff;
+}
 h1{
   font-size:2rem;
   color:#000;
