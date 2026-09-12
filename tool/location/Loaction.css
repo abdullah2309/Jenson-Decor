@@ -1,8 +1,8 @@
+/* ----- */
 .text-blob {
     font-size: 7vw;
     font-family: Copperplate Gothic Light;
     color: black;
-
     padding: 20px;
     border-radius: 10px;
     text-align: center;
@@ -17,7 +17,6 @@
     animation-duration: 35s;
 }
 .hero img {
-  
     background-repeat: no-repeat;
     background-size: cover;
     background-position: bottom-center;

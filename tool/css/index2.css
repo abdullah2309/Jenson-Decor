@@ -1,23 +1,46 @@
+/* Update 8-ang-2026  */
+/* ------------------------------ */
+.testing{
+  color:#fffff;
+}
 h1{
-  font-size:30px;
+  font-size:2rem;
   color:#000;
 };
 h2{
-  font-size:27px;
+  font-size:1.5rem;
   color:#fff;
 };
 h3{
+  font-size:1.2rem;
   color:#fdfdfd;
 };
 h4{
+  font-size:1rem;
   color:#fcfcfc;
 };
 h5{
+  font-size:0.5rem;
   color:#fefefe;
 };
+/* Update 15-ang-2026  */
+/* ------------------------------ */
 h6{
-  color:#fafafa;
+  font-size:0.3rem;
+  color:fqfqfq;
+}
+
+h6{
+  color:#ftftft;
 };
-
-
-
+/* Update 17-ang-2026  */
+/* ------------------------------ */
+a{
+  text-decation:none;
+  color:#000;
+}
+/* Update 18-ang-2026  */
+/* ------------------------------ */
+span{
+  color:#ccc;
+}
